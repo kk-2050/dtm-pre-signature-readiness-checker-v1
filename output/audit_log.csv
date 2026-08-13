@@ -1,0 +1,41 @@
+audit_event_id,checked_at,contract_id,readiness_status,validation_reasons,review_required
+5a222f77-2171-4259-a925-6fbb375a192b,2026-08-13T19:36:48+00:00,CTR-1001,Ready for eSignature,Ready for human final review and manual submission.,Yes
+2243ddd9-50d8-4237-a263-6317c9c9ba0a,2026-08-13T19:36:48+00:00,CTR-1002,Ready for eSignature,Ready for human final review and manual submission.,Yes
+3c5e766d-7cb2-4c5d-8502-f9c77426a5cb,2026-08-13T19:36:48+00:00,CTR-1003,Ready for eSignature,Ready for human final review and manual submission.,Yes
+42fb414a-97df-4f4d-9477-2759c76f2c5a,2026-08-13T19:36:48+00:00,CTR-1004,Needs Approval,"Legal approval must be Approved for contracts of $10,000 or more.",Yes
+bfa5dd80-306e-45d4-b507-83bd780b48e0,2026-08-13T19:36:48+00:00,CTR-1005,Needs Approval,"Finance approval must be Approved for contracts of $10,000 or more.",Yes
+031a254a-20ca-42d0-bc8f-1ef3ca5133a6,2026-08-13T19:36:48+00:00,CTR-1006,Needs Approval,Legal approval must be Approved for an NDA.,Yes
+e4da5133-a6f1-4e9d-aab6-66c3ad2f7ee3,2026-08-13T19:36:48+00:00,CTR-1007,Needs Correction,Duplicate contract_id found in input file. Signer email has an invalid format.,Yes
+55c672ea-3374-4ee2-8bbd-b67df1fa360d,2026-08-13T19:36:48+00:00,CTR-1008,Needs Correction,Submission date cannot be in the future.,Yes
+327fd40e-e980-48b4-bad9-f0607469702e,2026-08-13T19:36:48+00:00,CTR-1009,Needs Correction,Attachment must be included (Yes).,Yes
+99f684ce-ce69-46a4-96aa-059aac9768ad,2026-08-13T19:36:48+00:00,CTR-1007,Needs Correction,Required field is blank: vendor_name. Duplicate contract_id found in input file.,Yes
+c6769570-dc7f-47f0-a24f-b43a05b0d117,2026-08-13T19:40:26+00:00,CTR-1001,Ready for eSignature,Ready for human final review and manual submission.,Yes
+e43749b7-b043-4192-879c-aaf67ae84cd0,2026-08-13T19:40:26+00:00,CTR-1002,Ready for eSignature,Ready for human final review and manual submission.,Yes
+b08117a4-4934-4c3e-b973-2b5d96431785,2026-08-13T19:40:26+00:00,CTR-1003,Ready for eSignature,Ready for human final review and manual submission.,Yes
+77fa1fc7-e15a-4687-ba00-16e1b757acb7,2026-08-13T19:40:26+00:00,CTR-1004,Needs Approval,"Legal approval must be Approved for contracts of $10,000 or more.",Yes
+bc74af8d-cd47-458d-8202-bb59c53fec1e,2026-08-13T19:40:26+00:00,CTR-1005,Needs Approval,"Finance approval must be Approved for contracts of $10,000 or more.",Yes
+29bf35af-c7e3-4b4b-baf5-483118aa642c,2026-08-13T19:40:26+00:00,CTR-1006,Needs Approval,Legal approval must be Approved for an NDA.,Yes
+ed98fd2f-a0c7-4657-86a8-f8afb1186abe,2026-08-13T19:40:26+00:00,CTR-1007,Needs Correction,Duplicate contract_id found in input file. Signer email has an invalid format.,Yes
+46ebb2b2-15db-478a-8c62-ab128caff10f,2026-08-13T19:40:26+00:00,CTR-1008,Needs Correction,Submission date cannot be in the future.,Yes
+370a3d91-d7a6-4c72-9406-f13e53f48ce1,2026-08-13T19:40:26+00:00,CTR-1009,Needs Correction,Attachment must be included (Yes).,Yes
+6f5a0a1d-ccb1-4640-85b3-73bc52c6bb19,2026-08-13T19:40:26+00:00,CTR-1007,Needs Correction,Required field is blank: vendor_name. Duplicate contract_id found in input file.,Yes
+0c928e1b-1cc1-4a6c-8e3d-57f27f25b823,2026-08-13T19:58:25+00:00,CTR-1001,Ready for eSignature,Ready for human final review and manual submission.,Yes
+02581eb9-72e9-4041-9493-19c7a56d9884,2026-08-13T19:58:25+00:00,CTR-1002,Ready for eSignature,Ready for human final review and manual submission.,Yes
+597fbb70-f763-4ef0-9759-bd62ba2c504f,2026-08-13T19:58:25+00:00,CTR-1003,Ready for eSignature,Ready for human final review and manual submission.,Yes
+0bded712-96ca-4a00-9514-4cabef8fdcb9,2026-08-13T19:58:25+00:00,CTR-1004,Needs Approval,"Legal approval must be Approved for contracts of $10,000 or more.",Yes
+a1a5da37-de30-4374-be28-d89feade91f8,2026-08-13T19:58:25+00:00,CTR-1005,Needs Approval,"Finance approval must be Approved for contracts of $10,000 or more.",Yes
+563e0177-60a9-47ef-b1e3-6041e0ee5375,2026-08-13T19:58:25+00:00,CTR-1006,Needs Approval,Legal approval must be Approved for an NDA.,Yes
+42389c68-0702-4761-8f5e-3ac887b16569,2026-08-13T19:58:25+00:00,CTR-1007,Needs Correction,Duplicate contract_id found in input file. Signer email has an invalid format.,Yes
+58be1753-b1bb-4c40-80fd-3dc7544d4dc8,2026-08-13T19:58:25+00:00,CTR-1008,Needs Correction,Submission date cannot be in the future.,Yes
+000f8797-477d-4271-a56a-19f56c6aa229,2026-08-13T19:58:25+00:00,CTR-1009,Needs Correction,Attachment must be included (Yes).,Yes
+e8d4d4d7-77d8-4b14-ab68-c7d3807d7ee3,2026-08-13T19:58:25+00:00,CTR-1007,Needs Correction,Required field is blank: vendor_name. Duplicate contract_id found in input file.,Yes
+bd533faa-f6ad-4825-9aac-e02e09c18fb7,2026-08-13T20:57:49+00:00,CTR-1001,Ready for eSignature,Ready for human final review and manual submission.,Yes
+2a67aeef-ef89-473b-a551-6ba9909e1cb9,2026-08-13T20:57:49+00:00,CTR-1002,Ready for eSignature,Ready for human final review and manual submission.,Yes
+1f3756e4-dc37-44c1-b3ec-82bf67008fd2,2026-08-13T20:57:49+00:00,CTR-1003,Ready for eSignature,Ready for human final review and manual submission.,Yes
+d584e6f7-353a-4020-b35b-6af757b15e09,2026-08-13T20:57:49+00:00,CTR-1004,Needs Approval,"Legal approval must be Approved for contracts of $10,000 or more.",Yes
+403b790f-ad38-4338-9787-eed8c1699c40,2026-08-13T20:57:49+00:00,CTR-1005,Needs Approval,"Finance approval must be Approved for contracts of $10,000 or more.",Yes
+e9f699bc-8664-459e-b41f-f3feddb1c615,2026-08-13T20:57:49+00:00,CTR-1006,Needs Approval,Legal approval must be Approved for an NDA.,Yes
+27219da0-f144-4249-ad07-b3c0bc77e6f7,2026-08-13T20:57:49+00:00,CTR-1007,Needs Correction,Duplicate contract_id found in input file. Signer email has an invalid format.,Yes
+95a0377d-e939-427a-902d-0f3dceb10cc3,2026-08-13T20:57:49+00:00,CTR-1008,Needs Correction,Submission date cannot be in the future.,Yes
+6ba34e1a-6cc8-46df-b3c9-52f97b3c501f,2026-08-13T20:57:49+00:00,CTR-1009,Needs Correction,Attachment must be included (Yes).,Yes
+a2f2490c-9e8d-4b6a-95ba-79161c7f8145,2026-08-13T20:57:49+00:00,CTR-1007,Needs Correction,Required field is blank: vendor_name. Duplicate contract_id found in input file.,Yes

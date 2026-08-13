@@ -1,0 +1,11 @@
+contract_id,vendor_name,contract_type,contract_amount,signer_email,legal_approval,finance_approval,attachment_included,submission_date
+CTR-1001,Northwind Office Supply,Service Agreement,8500.00,alice.smith@example.com,Approved,Approved,Yes,2026-08-01
+CTR-1002,Blue Harbor Logistics,Master Services Agreement,25000.00,ben.lee@example.com,Approved,Approved,Yes,2026-08-02
+CTR-1003,Maple Grove Consulting,NDA,0.00,claire.park@example.com,Approved,,Yes,2026-08-03
+CTR-1004,Silver Pine Solutions,Service Agreement,15000.00,david.chen@example.com,Pending,Approved,Yes,2026-08-04
+CTR-1005,Red Brick Analytics,Statement of Work,12000.00,emma.jones@example.com,Approved,Pending,Yes,2026-08-05
+CTR-1006,Golden Field Media,NDA,0.00,frank.miller@example.com,Pending,,Yes,2026-08-06
+CTR-1007,Clearwater Design,Service Agreement,5000.00,invalid-email,Approved,Approved,Yes,2026-08-07
+CTR-1008,Oak Street Partners,Statement of Work,9000.00,helen.kim@example.com,Approved,Approved,Yes,2099-01-01
+CTR-1009,Sunrise Printworks,Service Agreement,7000.00,ian.brown@example.com,Approved,Approved,No,2026-08-08
+CTR-1007,,Service Agreement,6000.00,jane.wilson@example.com,Approved,Approved,Yes,2026-08-09

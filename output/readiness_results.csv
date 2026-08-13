@@ -1,0 +1,11 @@
+contract_id,vendor_name,contract_type,contract_amount,signer_email,legal_approval,finance_approval,attachment_included,submission_date,readiness_status,validation_reasons,checked_at,review_required
+CTR-1001,Northwind Office Supply,Service Agreement,8500.00,alice.smith@example.com,Approved,Approved,Yes,2026-08-01,Ready for eSignature,Ready for human final review and manual submission.,2026-08-13T20:57:49+00:00,Yes
+CTR-1002,Blue Harbor Logistics,Master Services Agreement,25000.00,ben.lee@example.com,Approved,Approved,Yes,2026-08-02,Ready for eSignature,Ready for human final review and manual submission.,2026-08-13T20:57:49+00:00,Yes
+CTR-1003,Maple Grove Consulting,NDA,0.00,claire.park@example.com,Approved,,Yes,2026-08-03,Ready for eSignature,Ready for human final review and manual submission.,2026-08-13T20:57:49+00:00,Yes
+CTR-1004,Silver Pine Solutions,Service Agreement,15000.00,david.chen@example.com,Pending,Approved,Yes,2026-08-04,Needs Approval,"Legal approval must be Approved for contracts of $10,000 or more.",2026-08-13T20:57:49+00:00,Yes
+CTR-1005,Red Brick Analytics,Statement of Work,12000.00,emma.jones@example.com,Approved,Pending,Yes,2026-08-05,Needs Approval,"Finance approval must be Approved for contracts of $10,000 or more.",2026-08-13T20:57:49+00:00,Yes
+CTR-1006,Golden Field Media,NDA,0.00,frank.miller@example.com,Pending,,Yes,2026-08-06,Needs Approval,Legal approval must be Approved for an NDA.,2026-08-13T20:57:49+00:00,Yes
+CTR-1007,Clearwater Design,Service Agreement,5000.00,invalid-email,Approved,Approved,Yes,2026-08-07,Needs Correction,Duplicate contract_id found in input file. Signer email has an invalid format.,2026-08-13T20:57:49+00:00,Yes
+CTR-1008,Oak Street Partners,Statement of Work,9000.00,helen.kim@example.com,Approved,Approved,Yes,2099-01-01,Needs Correction,Submission date cannot be in the future.,2026-08-13T20:57:49+00:00,Yes
+CTR-1009,Sunrise Printworks,Service Agreement,7000.00,ian.brown@example.com,Approved,Approved,No,2026-08-08,Needs Correction,Attachment must be included (Yes).,2026-08-13T20:57:49+00:00,Yes
+CTR-1007,,Service Agreement,6000.00,jane.wilson@example.com,Approved,Approved,Yes,2026-08-09,Needs Correction,Required field is blank: vendor_name. Duplicate contract_id found in input file.,2026-08-13T20:57:49+00:00,Yes
