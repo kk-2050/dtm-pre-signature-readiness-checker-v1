@@ -131,6 +131,6 @@ The audit log records that the readiness checker ran. It is not evidence that a 
 - Design a workflow that keeps human final review in control
 - Write maintainable Python with clear functions, constants, error handling, and comments
 
-## Interview-Ready Project Description
+## Portfolio Summary
 
 I built a DTM-inspired pre-signature workflow prototype in Python. The tool validates fictional contract-request data, checks approval readiness based on contract type and value, identifies data-quality exceptions, and creates an append-only audit log. Every result requires human final review before manual submission to an eSignature platform. This is a portfolio prototype, not a production DTM or eSignature system.    
